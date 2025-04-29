@@ -18,24 +18,36 @@
 
 ## 🙋 Hello
 
-<div border="2px solid gray">
+<table>
+  
+<tr>
+  <td width="500px">
 
   ### 🧑‍🚀 About Me
 
-<div display="inline-block">
 
-<div align="right" >
-  <img width="88" src="./icon.png" />
-</div>
+  <img align="right" width="88" src="./icon.png" />
 
-<div>
-  <p>&emsp;&emsp;嗨，你好，我是小小金! 金州勇士球迷一枚。</p>
-  <p>&emsp;&emsp;一名计算机菜鸟，希望能成为一名优秀的开发者。</p>
-</div>
+  **嗨，你好，我是小小金!**
+  - 金州勇士球迷一枚
+  - 计算机菜鸟一只
+  - 希望能成为一名优秀的开发者
 
-</div>
+  </td>
+  
+  <td>
+    <p align="center">
+    <a href="https://github.com/A-Jinsc"> 
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=A-Jinsc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=issues"/> 
+    </a>
+    </p>
+  </td>
 
-</div>
+</tr>
+
+
+</table>
+
 
 **📊 I'm a night owl**
 ```text
